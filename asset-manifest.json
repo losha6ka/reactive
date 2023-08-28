@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/losha6ka/react/static/css/main.d083963c.css",
+    "main.js": "/losha6ka/react/static/js/main.c642d44d.js",
+    "static/js/640.78110e2a.chunk.js": "/losha6ka/react/static/js/640.78110e2a.chunk.js",
+    "static/media/HugeDeliciousArchaeocete-size_restricted.gif": "/losha6ka/react/static/media/HugeDeliciousArchaeocete-size_restricted.c1bbf54d801e2e28ea5c.gif",
+    "index.html": "/losha6ka/react/index.html",
+    "main.d083963c.css.map": "/losha6ka/react/static/css/main.d083963c.css.map",
+    "main.c642d44d.js.map": "/losha6ka/react/static/js/main.c642d44d.js.map",
+    "640.78110e2a.chunk.js.map": "/losha6ka/react/static/js/640.78110e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d083963c.css",
+    "static/js/main.c642d44d.js"
+  ]
+}

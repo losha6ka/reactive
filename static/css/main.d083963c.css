@@ -1,0 +1,2 @@
+.wrapper{font-size:35px;padding:50px;position:relative}.dark{background-color:#000;color:#fff}.Light,.dark{padding:200px;text-align:center}.Light{background-color:#ffffe0;color:#000}.navbar{display:flex;font-size:45px;gap:50px;padding-bottom:20px;position:relative;transition:.3s;z-index:2}.navbar a{color:red;text-decoration:none;transition:.3s}.navbar a:hover{color:#000}.navbar a.active{color:green;transition:.3s}
+/*# sourceMappingURL=main.d083963c.css.map*/
