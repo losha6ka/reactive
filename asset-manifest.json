@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/losha6ka/reactive/static/css/main.d083963c.css",
-    "main.js": "/losha6ka/reactive/static/js/main.90fe4c96.js",
-    "static/js/640.78110e2a.chunk.js": "/losha6ka/reactive/static/js/640.78110e2a.chunk.js",
-    "static/media/HugeDeliciousArchaeocete-size_restricted.gif": "/losha6ka/reactive/static/media/HugeDeliciousArchaeocete-size_restricted.c1bbf54d801e2e28ea5c.gif",
-    "index.html": "/losha6ka/reactive/index.html",
-    "main.d083963c.css.map": "/losha6ka/reactive/static/css/main.d083963c.css.map",
-    "main.90fe4c96.js.map": "/losha6ka/reactive/static/js/main.90fe4c96.js.map",
-    "640.78110e2a.chunk.js.map": "/losha6ka/reactive/static/js/640.78110e2a.chunk.js.map"
+    "main.css": "/reactive/static/css/main.d083963c.css",
+    "main.js": "/reactive/static/js/main.d66f02f3.js",
+    "static/js/640.78110e2a.chunk.js": "/reactive/static/js/640.78110e2a.chunk.js",
+    "static/media/HugeDeliciousArchaeocete-size_restricted.gif": "/reactive/static/media/HugeDeliciousArchaeocete-size_restricted.c1bbf54d801e2e28ea5c.gif",
+    "index.html": "/reactive/index.html",
+    "main.d083963c.css.map": "/reactive/static/css/main.d083963c.css.map",
+    "main.d66f02f3.js.map": "/reactive/static/js/main.d66f02f3.js.map",
+    "640.78110e2a.chunk.js.map": "/reactive/static/js/640.78110e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d083963c.css",
-    "static/js/main.90fe4c96.js"
+    "static/js/main.d66f02f3.js"
   ]
 }
