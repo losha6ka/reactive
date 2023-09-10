@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reactive/static/css/main.77c03b0f.css",
-    "main.js": "/reactive/static/js/main.6503bc46.js",
+    "main.js": "/reactive/static/js/main.8ae3269a.js",
     "static/js/640.78110e2a.chunk.js": "/reactive/static/js/640.78110e2a.chunk.js",
     "static/media/HugeDeliciousArchaeocete-size_restricted.gif": "/reactive/static/media/HugeDeliciousArchaeocete-size_restricted.c1bbf54d801e2e28ea5c.gif",
     "index.html": "/reactive/index.html",
     "main.77c03b0f.css.map": "/reactive/static/css/main.77c03b0f.css.map",
-    "main.6503bc46.js.map": "/reactive/static/js/main.6503bc46.js.map",
+    "main.8ae3269a.js.map": "/reactive/static/js/main.8ae3269a.js.map",
     "640.78110e2a.chunk.js.map": "/reactive/static/js/640.78110e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77c03b0f.css",
-    "static/js/main.6503bc46.js"
+    "static/js/main.8ae3269a.js"
   ]
 }
